@@ -83,7 +83,8 @@ export default {
     "app/layout.tsx": {
       "js": [],
       "css": [
-        "/_next/static/css/index.GPI725jt.css"
+        "/_next/static/css/index.GPI725jt.css",
+        "/header-fix.css"
       ]
     }
   }
