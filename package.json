@@ -1,0 +1,12 @@
+{
+  "name": "eleicoeshouston",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy --config wrangler.json --keep-vars"
+  },
+  "devDependencies": {
+    "wrangler": "4.92.0"
+  }
+}
