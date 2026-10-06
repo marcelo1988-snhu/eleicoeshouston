@@ -14,3 +14,5 @@ Only app code and public maps/logos belong in this repository. The private voter
 Cloudflare will install the pinned Wrangler tool in its own build environment. The package has no local build step and deploys to the existing Worker name in `wrangler.json`.
 
 The first deployment includes section lookup, map, priority selector and arrival information. It does not create or populate D1 or configure a lookup secret. Those and the custom domain are the next steps.
+
+Hosted on Cloudflare Workers.
